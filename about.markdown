@@ -15,6 +15,6 @@ title: About
 	1. with his friends
 
 _favorite things_
-[number 1}(http://en.wikipedia.org/wiki/Kitten)
+[number 1](http://en.wikipedia.org/wiki/Kitten)
 _and_
-![number 2](http://www.google.com/url?sa=i&rct=j&q=steak&source=images&cd=&cad=rja&docid=kJM5z1xx55ATvM&tbnid=I_Ypg2uu5Q-F1M:&ved=0CAUQjRw&url=http%3A%2F%2Fwhatscookingamerica.net%2FBeef%2FCookingPerfectSteak.htm&ei=5qSBUefgOfGP0QG-kAE&bvm=bv.45921128,d.dmQ&psig=AFQjCNHAZ6neNSvHaDB9U5PPxr-gDbtoFA&ust=1367537223828990)
+![number 2](http://www.google.com/imgres?q=steak&um=1&client=safari&sa=N&rls=en&hl=en&biw=998&bih=812&tbm=isch&tbnid=xoyhSuO4jw8KcM:&imgrefurl=http://lastricksresort.blogspot.com/2012/01/day-26-and-steak-for-dessert.html&docid=C0ynqI3oqqCKrM&imgurl=http://1.bp.blogspot.com/-1mgXh-G8P48/TyQm-YObYGI/AAAAAAAAAaw/d2sKYw-IrOo/s1600/steak-6675.jpg&w=750&h=727&ei=x6SBUe3hHfOs0AHDxoGACg&zoom=1&ved=1t:3588,r:6,s:0,i:168)
