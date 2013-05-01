@@ -10,7 +10,6 @@ title: About
 * in the kitchen
 	*when ever there is food
 ##puppy puppy
-	1. in the park
+	1. __in the park__
 	1. at the store
 	1. with his friends
-	
